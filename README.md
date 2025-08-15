@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LokeshVerma54001
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Next js
+- 👀 I’m interested in Full Stack Web Devlopment
+- 🌱 I’m currently learning More Backend Tools
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me: Unavilable ATM
+- 📫 How to reach me: lokeshverma898989@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
